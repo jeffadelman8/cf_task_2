@@ -1,0 +1,33 @@
+h2 {
+    font-family: Futura, Verdana;
+}
+
+form {
+    display: inline-block;
+}
+
+#button{
+    display: inline-block;
+    height:25px;
+	width:70px;
+	background-color:#990000;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 25px;
+	text-align:center;
+	margin-top:2px;
+	padding-top: 5px;
+}
+
+.list {
+	font-family: Futura, Verdana;
+	color:#000099;
+}
+
+span {
+	font-family: Arial;
+	color: black;
+	font-weight: bold;
+	margin-right: 4px;
+}
