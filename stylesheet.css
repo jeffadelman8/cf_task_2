@@ -18,6 +18,7 @@ form {
 	text-align:center;
 	margin-top:2px;
 	padding-top: 5px;
+	cursor: pointer;
 }
 
 .list {
@@ -30,4 +31,13 @@ span {
 	color: black;
 	font-weight: bold;
 	margin-right: 4px;
+	cursor: pointer;
+}
+
+span:hover {
+	color: red;
+}
+
+.item {
+	cursor: default;
 }
